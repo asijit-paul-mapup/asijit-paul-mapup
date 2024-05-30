@@ -33,8 +33,7 @@
 ⏳ **Year Progress** { ████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 41.14 % as on ⏰ 30-5-2024.
 
 ## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=asijit-paul-mapup&theme=nord&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=asijit-paul-mapup&theme=nord&column=8)
 
 
 ## 📫 How to reach me
