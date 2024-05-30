@@ -51,7 +51,7 @@ const readme = `\
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=asijit-paul-mapup&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[trophy](https://github-profile-trophy.vercel.app/?username=asijit-paul-mapup&theme=nord&column=8)
 
 
 ## 📫 How to reach me
