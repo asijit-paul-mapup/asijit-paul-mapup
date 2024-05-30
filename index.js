@@ -15,12 +15,12 @@ function generateProgressBar() {
 }
 
 const readme = `\
-### Hi there 👋
+## Hi there 👋
 
 [![Header](https://raw.githubusercontent.com/asijit-paul-mapup/asijit-paul-mapup/main/asijit_gif.gif)](https://www.linkedin.com/in/asijit-paul-2142881a2/)
 ![Follow](https://img.shields.io/github/followers/asijit-paul-mapup?label=Follow&style=social)
 
-### Languages
+## Languages
 
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/asijit-paul-mapup?tab=repositories&q=&type=&language=python)
 [![PHP](https://img.shields.io/badge/-Php-000?&logo=Php)](https://github.com/asijit-paul-mapup?tab=repositories&q=&type=&language=php)
@@ -35,7 +35,7 @@ const readme = `\
 [![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)](https://github.com/asijit-paul-mapup?tab=repositories&q=&type=&language=node)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 
-### Technologies
+## Technologies
 
 ![GIT](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
