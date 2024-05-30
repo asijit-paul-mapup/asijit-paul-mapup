@@ -47,6 +47,7 @@ const readme = `\
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins)
 
 ## YEAR PROGRESS BAR
+
 ⏳ **Year Progress** ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} % as on ⏰ ${new Date().getDate()+'-'+(new Date().getMonth()+1)+'-'+new Date().getFullYear()+'.'}
 
 ## 🏆 GitHub Trophies
@@ -55,6 +56,7 @@ const readme = `\
 
 
 ## 📫 How to reach me
+
 You can reach me at the email in my GitHub profile. Follow my socials!
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Asijit on Instagram"/>](https://www.linkedin.com/in/asijit-paul-2142881a2/)
