@@ -21,8 +21,11 @@ jobs:
           git pull
           node index.js > README.md
     - name: Commit change & Push
+      env:
+        ACTIONS_PAT: ${{ secrets.GH_TOKEN }}
       run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git remote set-url origin https://x-access-token:${{ secrets.ACTIONS_PAT }}@github.com/${{ github.repository }}.git
           git commit -am "bot: updated README.md"
           git push
