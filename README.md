@@ -31,16 +31,11 @@
 
 ## YEAR PROGRESS BAR
 
-⏳ **Year Progress** { ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 7.61 % as on ⏰ 28-1-2026.
+⏳ **Year Progress** { ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 7.89 % as on ⏰ 29-1-2026.
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy-one-sigma.vercel.app/?username=paulasijit&theme=nord&column=7&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-## &#x1f4c8; GitHub Stats
-![Asijit's github stats](https://github-readme-stats-six-omega-59.vercel.app/api?username=asijit-paul-mapup&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&theme=transparent)
-
-[![Top Langs](https://github-readme-stats-six-omega-59.vercel.app/api/top-langs/?username=asijit-paul-mapup&layout=compact&card_width=470&text_color=daf7dc&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![trophy](https://github-profile-trophy.vercel.app/?username=asijit-paul-mapup&theme=nord&column=8)
 
 
 ## 📫 How to reach me
