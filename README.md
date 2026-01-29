@@ -35,7 +35,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy-one-sigma.vercel.app/?username=paulasijit&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-one-sigma.vercel.app/?username=paulasijit&theme=nord&column=7&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## 📫 How to reach me
