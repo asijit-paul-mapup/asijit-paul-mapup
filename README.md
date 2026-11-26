@@ -31,7 +31,7 @@
 
 ## YEAR PROGRESS BAR
 
-⏳ **Year Progress** { ██████████████████████████▁▁▁▁ } 89.89 % as on ⏰ 25-11-2026.
+⏳ **Year Progress** { ███████████████████████████▁▁▁ } 90.16 % as on ⏰ 26-11-2026.
 
 ## 🏆 GitHub Trophies
 
